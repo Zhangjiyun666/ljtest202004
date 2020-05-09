@@ -1,0 +1,9 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat May 09 22:23:12 CST 2020","Sat May 09 22:23:12 CST 2020","113","case","test_index","","","","test_lbt","
+        首页-获取轮播图
+    "
+"passed","Sat May 09 22:23:12 CST 2020","Sat May 09 22:23:12 CST 2020","94","case","test_login","","","","test_logout",""
+"passed","Sat May 09 22:23:12 CST 2020","Sat May 09 22:23:12 CST 2020","94","case","test_index","","","","test_course","
+        首页-获取教程
+    "
+"passed","Sat May 09 22:23:12 CST 2020","Sat May 09 22:23:12 CST 2020","101","case","test_login","","","","test_login",""

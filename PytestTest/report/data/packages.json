@@ -1,0 +1,69 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "test_index",
+      "children" : [ {
+        "name" : "test_lbt",
+        "uid" : "6225345789a80862",
+        "parentUid" : "49c045964ec9aafacdb8327b0cb30f9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589034192289,
+          "stop" : 1589034192402,
+          "duration" : 113
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_course",
+        "uid" : "c51f034f06c66092",
+        "parentUid" : "49c045964ec9aafacdb8327b0cb30f9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589034192408,
+          "stop" : 1589034192502,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "49c045964ec9aafacdb8327b0cb30f9b"
+    }, {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "8df60379681512f7",
+        "parentUid" : "7455f18e90cc23ccd1b95606a96b7fcb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589034192509,
+          "stop" : 1589034192610,
+          "duration" : 101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_logout",
+        "uid" : "5deb1a9ef82802b7",
+        "parentUid" : "7455f18e90cc23ccd1b95606a96b7fcb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589034192616,
+          "stop" : 1589034192710,
+          "duration" : 94
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7455f18e90cc23ccd1b95606a96b7fcb"
+    } ],
+    "uid" : "3a5ff917f72cbd03b2a2ff2549394ef0"
+  } ]
+}

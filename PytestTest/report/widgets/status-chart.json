@@ -1,0 +1,41 @@
+[ {
+  "uid" : "6225345789a80862",
+  "name" : "test_lbt",
+  "time" : {
+    "start" : 1589034192289,
+    "stop" : 1589034192402,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5deb1a9ef82802b7",
+  "name" : "test_logout",
+  "time" : {
+    "start" : 1589034192616,
+    "stop" : 1589034192710,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c51f034f06c66092",
+  "name" : "test_course",
+  "time" : {
+    "start" : 1589034192408,
+    "stop" : 1589034192502,
+    "duration" : 94
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8df60379681512f7",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1589034192509,
+    "stop" : 1589034192610,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
